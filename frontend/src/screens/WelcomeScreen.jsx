@@ -34,9 +34,9 @@ export default function WelcomeScreen({ onCreateQuiz, onJumpToQuiz }) {
             fontSize: 'clamp(2.5rem, 8vw, 5rem)',
             fontWeight: 900,
             letterSpacing: '0.08em',
-            color: 'var(--cyan)',
+            color: '#ff2020',
             lineHeight: 1,
-            textShadow: '0 0 30px rgba(0,255,242,0.5)',
+            textShadow: '0 0 30px rgba(255,32,32,0.6)',
           }}
         >
           QUIZ//FORGE
